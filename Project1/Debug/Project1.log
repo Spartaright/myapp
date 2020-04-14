@@ -1,0 +1,17 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  myapp.c
+g:\myapp\project1\project1\myapp.c(9): warning C4013: “time”未定义；假设外部返回 int
+g:\myapp\project1\project1\myapp.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+g:\myapp\project1\project1\myapp.c(8): warning C4101: “c”: 未引用的局部变量
+g:\myapp\project1\project1\myapp.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+g:\myapp\project1\project1\myapp.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+g:\myapp\project1\project1\myapp.c(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+g:\myapp\project1\project1\myapp.c(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+g:\myapp\project1\project1\myapp.c(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  Project1.vcxproj -> G:\myapp\Project1\Debug\Project1.exe

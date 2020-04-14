@@ -1,0 +1,14 @@
+﻿  myapp.c
+g:\myapp\project1\project1\myapp.c(26): warning C4013: “time”未定义；假设外部返回 int
+g:\myapp\project1\project1\myapp.c(97): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\myapp\project1\project1\myapp.c(98): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+g:\myapp\project1\project1\myapp.c(102): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+g:\myapp\project1\project1\myapp.c(102): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+g:\myapp\project1\project1\myapp.c(264): warning C4101: “answer”: 未引用的局部变量
+g:\myapp\project1\project1\myapp.c(263): warning C4101: “fp”: 未引用的局部变量
+  正在生成代码
+  3 of 17 functions (17.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> G:\myapp\Project1\Release\Project1.exe
